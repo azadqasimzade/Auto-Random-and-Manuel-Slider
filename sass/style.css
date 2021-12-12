@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container .row .card-footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container .row .card-footer #carsIndex {
+  padding: 10px;
+  font-weight: 600;
+}
+
+.container .row .card-footer #buttons #btnPrev,
+.container .row .card-footer #btnNext {
+  font-size: 30px;
+}
+/*# sourceMappingURL=style.css.map */
