@@ -1,5 +1,5 @@
 var models = [{
-        name: 'BMW 481d',
+        name: 'BMW 418d',
         img: 'img/bmw.jpg',
         link: 'http://www.instagram.com/azadqasimzade'
     },
